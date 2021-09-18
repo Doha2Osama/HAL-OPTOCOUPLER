@@ -1,0 +1,5 @@
+#ifndef OPTOCOUPLER_PRIVATE_H
+
+#define OPTOCOUPLER_PRIVATE_H
+
+#endif
